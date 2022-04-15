@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Check this out 
-<https://www.codewars.com/users/aivan3d66/badges/small>
+[screenshot of sample](https://www.codewars.com/users/aivan3d66/badges/small)
 
 My tech stack:
 
