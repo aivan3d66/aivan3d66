@@ -18,11 +18,11 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="Sass" src="https://img.shields.io/badge/Sass-1572B6?style=for-the-badge&logo=Sass&logoColor=white">
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-1572B6?style=for-the-badge&logo=Webpack&logoColor=white">
+<img alt="graphql" src="https://img.shields.io/badge/graphql-1572B6?style=for-the-badge&logo=graphql&logoColor=white">
 <img alt="Gulp" src="https://img.shields.io/badge/Gulp-1572B6?style=for-the-badge&logo=Gulp&logoColor=white">
 <img alt="MaterialUI" src="https://img.shields.io/badge/MUI-1572B6.svg?style=for-the-badge&logo=mui&logoColor=white">
 <img alt="AntDesign" src="https://img.shields.io/badge/AntDesign-1572B6.svg?style=for-the-badge&logo=AntDesign&logoColor=white">
 <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-1572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
 <img alt="photoshop" src="https://img.shields.io/badge/adobephotoshop-1572B6.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img alt="figma" src="https://img.shields.io/badge/figma-1572B6.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img alt="git" src="https://img.shields.io/badge/git-1572B6.svg?style=for-the-badge&logo=git&logoColor=white">
