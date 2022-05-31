@@ -30,6 +30,7 @@
 <img alt="git" src="https://img.shields.io/badge/git-1572B6.svg?style=for-the-badge&logo=git&logoColor=white">
 <img alt="heroku" src="https://img.shields.io/badge/heroku-1572B6.svg?style=for-the-badge&logo=heroku&logoColor=white">
 <img alt="jest" src="https://img.shields.io/badge/jest-1572B6?style=for-the-badge&logo=jest&logoColor=white"/>
+<img alt="cypress" src="https://img.shields.io/badge/cypress-1572B6?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img alt="storybook" src="https://img.shields.io/badge/-Storybook-1572B6?style=for-the-badge&logo=storybook&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-1572B6?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
